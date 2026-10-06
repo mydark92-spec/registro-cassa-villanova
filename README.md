@@ -8,7 +8,7 @@ Aprire `index.html` con un browser. Il logo deve restare nella stessa cartella d
 
 ## Dati
 
-Fondo cassa e movimenti sono salvati nel browser utilizzato. Non vengono sincronizzati con GitHub né trasferiti tra dispositivi o browser. Esportare regolarmente il resoconto CSV come copia di sicurezza.
+Fondo cassa e movimenti sono salvati nel browser utilizzato. Non vengono sincronizzati con GitHub né trasferiti tra dispositivi o browser. Usa **Scarica backup** per salvare un file JSON completo e **Ripristina da file** per recuperarlo in seguito. Conserva il backup anche fuori da questo dispositivo.
 
 ## Prezzi
 
