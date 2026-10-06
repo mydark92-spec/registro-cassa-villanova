@@ -1,6 +1,6 @@
 # Registro di cassa - Circolo Tennis Villanova
 
-Piccola cassa web per registrare campi e articoli, distinguere pagamenti in contanti e POS, calcolare il resto in base ai tagli disponibili e scaricare il resoconto giornaliero.
+Piccola cassa web per registrare campi e articoli, indicare il campo di gioco, annotare facoltativamente il nome del cliente, distinguere pagamenti in contanti e POS, calcolare il resto in base ai tagli disponibili e scaricare il resoconto giornaliero.
 
 ## Avvio
 
